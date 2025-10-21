@@ -7,6 +7,7 @@ Simply clone the repo and run the `gpacalc.py` script.
 This can be done by opening a terminal and running
 ```sh
 git clone https://github.com/WTCSC/the-overly-verbose-gpa-calculator-RandomHuman2020
+git checkout main
 cd the-overly-verbose-gpa-calculator-RandomHuman2020
 python gpacalc.py
 ```  
